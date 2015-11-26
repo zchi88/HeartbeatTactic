@@ -18,14 +18,14 @@ RUNNING FROM ECLIPSE
 RUNNING FROM COMMAND LINE
 ===================================================================================
 1) Open the command line client
-2) CD to .../SoftwareArchitectureTactics/bin
+2) CD to .../HeartbeatTactic/bin
 3) Run PacemakerController using:
-	java pacemaker.hw1.PacemakerController
+	java pacemaker.PacemakerController
 
 4) Open a second command line client
-5) CD to same directory as before (.../SoftwareArchitectureTactics/bin)
+5) CD to same directory as before (.../HeartbeatTactic/bin)
 6) Run HeartSimulator using:	
-	java pacemaker.hw1.HeartSimulator
+	java pacemaker.HeartSimulator
 ===================================================================================
 
 Feel free to email me at zc3896@rit.edu if you have any questions/comments!
