@@ -1,8 +1,8 @@
-package heartbeat_tactic.pacemaker;
+package pacemaker;
 
 import java.net.*;
 
-import heartbeat_tactic.heartbeat.HeartbeatSender;
+import heartbeat.HeartbeatSender;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package heartbeat_tactic.pacemaker;
+package pacemaker;
 
 import java.awt.Color;
 import java.awt.Dimension;

@@ -1,4 +1,4 @@
-package heartbeat_tactic.pacemaker;
+package pacemaker;
 
 import java.io.IOException;
 import java.io.PrintWriter;

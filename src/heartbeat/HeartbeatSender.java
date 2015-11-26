@@ -1,4 +1,4 @@
-package heartbeat_tactic.heartbeat;
+package heartbeat;
 
 public class HeartbeatSender implements Runnable {
 	private int sendingInterval;

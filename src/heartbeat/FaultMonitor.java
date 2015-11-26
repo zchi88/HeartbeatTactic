@@ -1,6 +1,6 @@
-package heartbeat_tactic.heartbeat;
+package heartbeat;
 
-import heartbeat_tactic.pacemaker.PacemakerController;
+import pacemaker.PacemakerController;
 
 /**
  * Fault monitor exists as a helper which receives and determines how to handle errors

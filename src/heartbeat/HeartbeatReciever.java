@@ -1,4 +1,4 @@
-package heartbeat_tactic.heartbeat;
+package heartbeat;
 
 public class HeartbeatReciever implements Runnable {
 	// The frequency at which we will check for a heartbeat sender update in

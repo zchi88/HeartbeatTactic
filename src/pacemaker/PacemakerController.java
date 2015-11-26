@@ -1,8 +1,8 @@
-package heartbeat_tactic.pacemaker;
+package pacemaker;
 
 import java.util.ArrayList;
 
-import heartbeat_tactic.heartbeat.HeartbeatReciever;
+import heartbeat.HeartbeatReciever;
 
 public class PacemakerController {
 	// Specify how often we want to check for the aliveness of the heartbeat
