@@ -4,6 +4,9 @@ the availability of a system by monitoring the status of a crtical component to 
 In this example, I have modeled a pacemaker system. I identified the critical component of this system as being the
 sensor which detects heart pulses sent by a simulated heart. 
 
+## Architectural Overview
+![Pacemaker with heartbeat tactic](https://raw.githubusercontent.com/zchi88/HeartbeatTactic/master/HeartbeatTacticPacemaker.png "Pacemaker with heartbeat tactic")
+
 ## Dependencies
 This application was created with JDK 8 and Eclipse
 
